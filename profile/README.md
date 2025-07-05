@@ -1,12 +1,6 @@
-## Hi there 👋
 
-<!--
+## FRCScouter: Revolutionizing FIRST Robotics Competition Scouting
 
-**Here are some ideas to get you started:**
+Welcome to FRCScouter, a modern and comprehensive platform designed to elevate your FIRST Robotics Competition (FRC) scouting experience through intuitive website and mobile applications. Our core philosophy revolves around flexibility, allowing you to customize your scouting forms using a simple JSON configuration file, which defines the questions you need and integrates specific logic for how the data is collected, processed, and presented, ensuring a highly efficient scouting workflow for your team.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Made by Lior Shap, Alumni of team 4744.
